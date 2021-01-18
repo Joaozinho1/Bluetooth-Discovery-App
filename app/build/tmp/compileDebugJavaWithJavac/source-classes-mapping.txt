@@ -1,0 +1,6 @@
+com/example/dsicovrbluetooth/MainActivity.java
+ com.example.dsicovrbluetooth.MainActivity
+ com.example.dsicovrbluetooth.MainActivity$1
+ com.example.dsicovrbluetooth.MainActivity$2
+com/example/dsicovrbluetooth/BuildConfig.java
+ com.example.dsicovrbluetooth.BuildConfig

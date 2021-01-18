@@ -1,0 +1,4 @@
+#Mon Jan 18 11:53:56 SAST 2021
+base.0=/home/mduduzi/AndroidStudioProjects/DsicovrBluetooth/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
